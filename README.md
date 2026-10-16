@@ -10,3 +10,4 @@ A simple TicTacToe game implementation in Java.
 ```bash
 javac src/TicTacToe.java
 java -cp src TicTacToe
+## Board outline: an array of chars
