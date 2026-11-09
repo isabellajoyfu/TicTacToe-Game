@@ -11,3 +11,4 @@ A simple TicTacToe game implementation in Java.
 javac src/TicTacToe.java
 java -cp src TicTacToe
 ## Board outline: an array of chars
+a little note for the assignment:D
